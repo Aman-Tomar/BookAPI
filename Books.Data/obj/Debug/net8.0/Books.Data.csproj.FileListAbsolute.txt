@@ -1,0 +1,17 @@
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\bin\Debug\net8.0\Books.Data.deps.json
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\bin\Debug\net8.0\Books.Data.runtimeconfig.json
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\bin\Debug\net8.0\Books.Data.dll
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\bin\Debug\net8.0\Books.Data.pdb
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\bin\Debug\net8.0\Books.Domain.dll
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\bin\Debug\net8.0\Books.Domain.pdb
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\Books.Data.csproj.AssemblyReference.cache
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\Books.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\Books.Data.AssemblyInfoInputs.cache
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\Books.Data.AssemblyInfo.cs
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\Books.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\Books.Data.csproj.Up2Date
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\Books.Data.dll
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\refint\Books.Data.dll
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\Books.Data.pdb
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\Books.Data.genruntimeconfig.cache
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.Data\obj\Debug\net8.0\ref\Books.Data.dll
