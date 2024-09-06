@@ -149,3 +149,4 @@ C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.API\bin\Debug
 C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.API\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aman.Tomar\Desktop\Training\c# Labs 26-08\Books.API\Books.API\obj\Debug\net8.0\Books.API.sourcelink.json
